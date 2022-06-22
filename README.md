@@ -61,7 +61,7 @@ export default App;
 We will use [Ant Design](https://ant.design/) component library for the design. :)
 
 ```sh
-$ npm install antd
+npm install antd
 ```
 
 To make the Ant Design styles available in the entire app, import Ant Design stylesheet in `index.js`:
